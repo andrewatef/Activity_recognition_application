@@ -4,7 +4,7 @@ Desktop application for video activity recognition that asks the user to input t
 
 ### Algorithm
 
-Original implementation found in this <a href='https://github.com/Nadern96/kinetics-i3d'> repository</a>
+Original implementation found in this <a href='https://github.com/andrewatef/kinetics-i3d'> repository</a>
 
 ### install the application
 
