@@ -12,7 +12,7 @@ make virtual environment, activate env, clone the repo, install requirments then
 ```
 $ virtualenv env  
 $ . env/bin/activate
-$ git clone https://github.com/marina-fares/Activity_recognition_application.git
+$ git clone https://github.com/andrewatef/Activity_recognition_application.git
 $ pip install -r requirements.txt
 $ python3 app.py
 ```
